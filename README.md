@@ -1,5 +1,9 @@
 # TinDog
 
+![image](https://github.com/user-attachments/assets/f0ade068-c83d-4969-83b4-d3ac7ae45164)
+![image](https://github.com/user-attachments/assets/d0153042-b530-4294-a6b1-ac9e1f4e0107)
+
+
 **TinDog** é uma página de destino para um aplicativo fictício projetado para ajudar usuários a encontrar novos e interessantes cães nas proximidades. Este projeto foi desenvolvido utilizando o framework **Bootstrap** para estilização e layout, proporcionando um design responsivo e moderno.
 
 ## Descrição Geral
